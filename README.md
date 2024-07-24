@@ -56,7 +56,7 @@ Further Analysis could yield additional insights into which movies have the high
 
 ## More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/josh-g-grimes/Film-Review/blob/main/notebook.ipynb) or review this [presentation]()
+See the full analysis in the [Jupyter Notebook](https://github.com/josh-g-grimes/Film-Review/blob/main/notebook.ipynb) or review this [presentation](https://github.com/josh-g-grimes/Film-Review/blob/main/film_presentation.pdf)
 
 For additional info, contact Josh Grimes at josh.g.grimes@gmail.com
 
